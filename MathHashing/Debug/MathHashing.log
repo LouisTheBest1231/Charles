@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\source\repos\MathHashing\main.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\MathHashing\main.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+  MathHashing.vcxproj -> C:\Users\User\source\repos\MathHashing\Debug\MathHashing.exe
